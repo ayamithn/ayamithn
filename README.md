@@ -33,5 +33,5 @@ Weather station project with data collection and visualization.
 
 ## 📫 Contact
 
-- LinkedIn: [Aymane Tahani](...)
+- LinkedIn: [Aymane Tahani]([...](https://www.linkedin.com/in/aymane-tahani/))
 - GitHub: [@ayamithn](...)
