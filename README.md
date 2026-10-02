@@ -3,7 +3,7 @@
 💻 Computer Science / Software Engineering Student  
 🐍 Python Developer  
 🤖 Interested in AI, Automation & Software Development  
-📍 France
+📍TOULOUSE,France
 
 ## About me
 
