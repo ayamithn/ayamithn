@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Aymane Tahani 👋
 
-<!--
-**ayamithn/ayamithn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science / Software Engineering Student  
+🐍 Python Developer  
+🤖 Interested in AI, Automation & Software Development  
+📍 France
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a computer science student interested in software
+development, artificial intelligence and automation.
+
+I enjoy building practical projects and learning new
+technologies through hands-on development.
+
+## 🛠️ Technologies
+
+- Python
+- Git / GitHub
+- Linux
+- SQL
+- HTML / CSS
+- JavaScript
+- AI / Machine Learning
+
+## 🚀 Featured Projects
+
+### 🎙️ TextToVoice
+Desktop Text-to-Speech application built with Python.
+
+### 🌦️ Station Météo
+Weather station project with data collection and visualization.
+
+## 📫 Contact
+
+- LinkedIn: [Aymane Tahani](...)
+- GitHub: [@ayamithn](...)
